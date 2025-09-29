@@ -1,1 +1,3 @@
-# dataset_optimization
+```bash
+python train_2.py
+```
